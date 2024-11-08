@@ -1,0 +1,11 @@
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.csproj.AssemblyReference.cache
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\_1012_Muhammad_Irvan_Akbar_UTS.Views.halDasboardAdmin.resources
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\_1012_Muhammad_Irvan_Akbar_UTS.Views.halInventaris.resources
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\_1012_Muhammad_Irvan_Akbar_UTS.Views.halLoginAdmin.resources
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\_1012_Muhammad_Irvan_Akbar_UTS.Views.halWelcome.resources
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\_1012_Muhammad_Irvan_Akbar_UTS.Views.tambahBarang.resources
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.csproj.GenerateResource.cache
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.AssemblyInfoInputs.cache
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.AssemblyInfo.cs
+C:\Users\Muhammad Irvan Akbar\Downloads\1012_Muhammad Irvan Akbar_UTS\1012_Muhammad Irvan Akbar_UTS\obj\Debug\net8.0-windows\1012_Muhammad Irvan Akbar_UTS.csproj.CoreCompileInputs.cache

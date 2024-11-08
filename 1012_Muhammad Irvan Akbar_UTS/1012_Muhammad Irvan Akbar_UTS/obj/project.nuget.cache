@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4L+7fkcNiU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad Irvan Akbar\\Downloads\\1012_Muhammad Irvan Akbar_UTS\\1012_Muhammad Irvan Akbar_UTS\\1012_Muhammad Irvan Akbar_UTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Irvan Akbar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Irvan Akbar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Irvan Akbar\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
